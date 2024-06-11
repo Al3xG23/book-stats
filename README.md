@@ -76,3 +76,6 @@ https://book-stats.onrender.com
 
 ## Mock-Up
 
+![alt text](<Screenshot 2024-06-10 232941.png>)
+
+![alt text](<Screenshot 2024-06-10 233038.png>)
